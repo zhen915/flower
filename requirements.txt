@@ -1,4 +1,4 @@
-torch
+pytorch
 ultralytics
 streamlit
 opencv-python-headless
